@@ -1,0 +1,7 @@
+flask
+werkzeug
+mysql-connector-python
+functools
+datetime
+os
+json
